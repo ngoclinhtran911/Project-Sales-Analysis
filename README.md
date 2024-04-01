@@ -7,7 +7,21 @@ The "sales.csv" dataset is a dataset that contains 38,406 rows of information on
 Purpose of the project is make reports to the Board of Management, visualize data, identify valuable insights and thereafter make recommendation to the brand's sales operation.
 
 ## Dataset Introduction
-
+The dataset includes the following attributes for each of the sale transanction made:
+- id: ID of the order
+- goods_code: code of the product
+- goods_name: name of the product
+- goods_category: category of the product
+- created_at: date of the order
+- order_code: code of the order
+- quantity: quantity of the product
+- price: unit price of the product
+- discount: discount value
+- unit: unit
+- customer: name of customer
+- branch: branch in which the order was made
+- customer_id: ID of the customer
+- customer_phone_number: phone number of the customer
 
 
 ## Analysis Process 
